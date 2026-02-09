@@ -1,3 +1,6 @@
+<img width="800" height="600" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/812a1392-fd47-42da-ac24-72708ebccf45" />
+[Correlation.ipynb](https://github.com/user-attachments/files/25190166/Correlation.ipynb)
+<img width="1000" height="1000" alt="pairplot" src="https://github.com/user-attachments/assets/45cf12d3-8802-4c1c-8e5a-7ead8198d681" />
 # Syntecxhub_Correlation_heatmaps_Pairwise_relationships
 Correlation analysis and pairwise relationship exploration using Python.
 
